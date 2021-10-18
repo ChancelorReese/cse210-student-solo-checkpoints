@@ -1,3 +1,7 @@
 import random
 
-# TODO: Define the Board class here
+class Board:
+    def display_board():
+        print("---------------------")
+        
+        print("---------------------")
